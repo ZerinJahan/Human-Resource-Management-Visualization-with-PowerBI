@@ -1,2 +1,2 @@
-# HR-Visualization-with-PowerBI
- The project titled "HR Visualization with Power BI" focuses on leveraging data visualization techniques to provide actionable insights into human resource management. Utilizing two HR datasets, this project develops an interactive and comprehensive dashboard using Power BI to analyze key HR metrics such as employee performance, salary distribution, job roles, and behavioral trends.
+# Human-Resource-Management-Visualization-with-PowerBI
+The project titled "Human Resource Management Visualization with Power BI" focuses on leveraging data visualization techniques to provide actionable insights into human resource management. Utilizing two HR datasets, this project develops an interactive and comprehensive dashboard using Power BI to analyze key HR metrics such as employee performance, salary distribution, job roles, and behavioral trends.
